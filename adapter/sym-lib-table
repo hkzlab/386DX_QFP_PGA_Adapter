@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AM386")(type "KiCad")(uri "${KIPRJMOD}/../ext/AM386.kicad_sym")(options "")(descr ""))
+  (lib (name "V53")(type "KiCad")(uri "${KIPRJMOD}/../ext/V53.kicad_sym")(options "")(descr ""))
+)
