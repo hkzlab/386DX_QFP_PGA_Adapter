@@ -989,6 +989,9 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 980bcf82-047e-4f23-937c-504014831bf1))
   (gr_line (start 95.25 44.45) (end 133.35 44.45)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp a072adbf-672a-4642-8b3d-a09c0208f0c3))
+  (gr_text "AM386DX" (at 113.284 62.992 -90) (layer "F.SilkS") (tstamp 2f1fcc82-dbe5-4068-a6ce-dff8f14f9644)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify bottom))
+  )
 
   (segment (start 125.543016 67.577) (end 124.473 67.577) (width 0.35) (layer "F.Cu") (net 1) (tstamp 02db56be-d15c-44f7-a1e4-ba5a16053b00))
   (segment (start 111.125 51.608984) (end 111.76 52.243984) (width 0.35) (layer "F.Cu") (net 1) (tstamp 07ae9a46-a6e8-4f51-9669-4adc0686fdb7))
