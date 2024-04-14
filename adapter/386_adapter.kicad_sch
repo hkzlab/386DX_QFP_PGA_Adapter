@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "62869658-4f53-4ca4-98c2-2b0a91a7e94b")
 	(paper "A4")
+	(title_block
+		(title "386DX QFP -> PGA Adapter")
+		(rev "3")
+	)
 	(lib_symbols
 		(symbol "AM386:AM386_PGA"
 			(exclude_from_sim no)
