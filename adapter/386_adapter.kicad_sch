@@ -10810,7 +10810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFP:PQFP-132_24x24mm_P0.635mm_i386"
+		(property "Footprint" "Custom_QFP:PQFP-132_24x24mm_P0.635mm_i386"
 			(at 146.05 30.48 0)
 			(effects
 				(font
