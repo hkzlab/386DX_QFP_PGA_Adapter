@@ -11292,7 +11292,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5e5838e6-7c31-446d-a08b-fb5ddbce1f7c")
 		(property "Reference" "#PWR04"
 			(at 81.28 167.64 0)
@@ -11304,7 +11303,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 166.37 0)
+			(at 85.09 163.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11358,7 +11357,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a5ae7157-3c70-4fb0-9820-ede87494365d")
 		(property "Reference" "#PWR02"
 			(at 205.74 20.32 0)
@@ -11370,7 +11368,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 205.74 11.43 0)
+			(at 209.55 14.986 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11494,7 +11492,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cf97343f-9d29-4112-9078-d10a03721d5c")
 		(property "Reference" "#PWR03"
 			(at 204.47 167.64 0)
@@ -11506,7 +11503,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 204.47 166.37 0)
+			(at 208.788 163.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11630,7 +11627,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f014c062-4866-4bd8-8f3e-414bd2ae9e2a")
 		(property "Reference" "#PWR01"
 			(at 81.28 20.32 0)
@@ -11642,7 +11638,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 81.28 11.43 0)
+			(at 84.582 14.986 0)
 			(effects
 				(font
 					(size 1.27 1.27)
