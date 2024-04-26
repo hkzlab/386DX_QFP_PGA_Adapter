@@ -2,7 +2,7 @@
 
 ## Introduction
 
-386DX CPUs in ceramic PGA packages are getting rarer and more expensive day by day, while QFP variants can still be found relatively easily, but some motherboards don't have a space for a QFP CPU, and they're an hassle to swap anyway.
+386DX CPUs in ceramic PGA packages are getting rarer and more expensive by the day, while QFP variants can still be found relatively easily. But some motherboards don't have a space for a QFP CPU, and they're an hassle to swap anyway.
 
 This project provides a way to adapt the QFP variants of the 386DX cpus to a PGA format, by using commonly available hardware parts.
 I tested the procedure on an AM386DX @ 40Mhz, and the machine happily ran memory tests and benchmarks for hours.
