@@ -54,7 +54,3 @@ The last tested revision of the board is Rev.1, changes to Rev.3 are minimal and
 
 I tested this adapter with an AM386DX @ 40Mhz.
 
-## License
-
-386DX QFP to PGA Adapter © 2024 by Hkz is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
-
